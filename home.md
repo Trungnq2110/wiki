@@ -2,13 +2,13 @@
 title: Hướng dẫn tạo website
 description: 
 published: true
-date: 2025-01-17T11:28:51.865Z
+date: 2025-01-17T11:30:30.570Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-17T09:48:41.731Z
 ---
 
-https://fireshare.trungnq.com/w/2a0d7e71d0ed32dff67e223dd37290ec
+
 https://www.youtube.com/watch?v=oza4AwGhlTA
 
 # Giới thiệu
