@@ -2,13 +2,13 @@
 title: Hướng dẫn tạo website
 description: 
 published: true
-date: 2025-01-17T09:48:41.731Z
+date: 2025-01-17T11:15:34.289Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-17T09:48:41.731Z
 ---
 
-https://fireshare.trungnq.com/w/205402f58f7c1fbccaec2d14dd554635
+https://fireshare.trungnq.com/_content/video/205402f58f7c1fbccaec2d14dd554635.mp4
 # Giới thiệu
 
 Đã có ai dùng `GitHub` bao lâu nay vẫn không biết các tệp với đuôi mở rộng .md là gì không?
