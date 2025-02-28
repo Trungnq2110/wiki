@@ -2,14 +2,14 @@
 title: Hướng dẫn tạo website
 description: 
 published: true
-date: 2025-01-17T11:30:30.570Z
+date: 2025-02-28T03:29:00.958Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-17T09:48:41.731Z
 ---
 
 
-https://www.youtube.com/watch?v=oza4AwGhlTA
+[Link hướng dẫn](https://www.youtube.com/watch?v=oza4AwGhlTA)
 
 # Giới thiệu
 
